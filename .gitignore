@@ -1,2 +1,5 @@
 *.pdf
 **/.idea/workspace.xml
+**/out/
+*.class
+**/README.TXT
