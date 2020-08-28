@@ -6,12 +6,12 @@ Tenhle projekt ukazuje co jsem vyplodil na VAP v prváku, nesežerte mě jestli 
 Neni tu zatim nutně všechno, jestli vyhrabu ještě něco přidam to sem xd
 
 # Jak dema spouštět (v první řadě potřebujete nainstalované [JDK](https://www.oracle.com/cz/java/technologies/javase-downloads.html))
-a) V IntelliJ
+1) V IntelliJ
     1) Otevřete projekt v intelliJ
     2) Najděte nějakej `.java` soubor a poklepejte na něj
     3) Pokud uvidíte vedle kódu zelenou šipečku, klikněte na ní
     4) Enjoy
-b) Příkazový řádek 
+2) Příkazový řádek 
     1) Otevřete složku s projektem
     2) Napište
         * `dir` na windows
